@@ -1,0 +1,14 @@
+{
+  "second-page": {
+    "description": "Page heading",
+    "message": "Вторая странница"
+  },
+  "second-page-p": {
+    "description": "Paragraph in \"Second page\" section",
+    "message": "Это вторая странница <fix1>-а, она использует <fix1>."
+  },
+  "second-page-link": {
+    "description": "Link to the homepage",
+    "message": "На главную"
+  }
+}

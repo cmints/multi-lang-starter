@@ -1,0 +1,14 @@
+{
+  "homepage": {
+    "description": "Page heading",
+    "message": "Главная"
+  },
+  "homepage-p": {
+    "description": "Paragraph in \"Homepage\" section",
+    "message": "This is the homepage that is using <fix>EJS</fix>."
+  },
+  "homepage-p-link": {
+    "description": "Link to the second page in \"Homepage\" section",
+    "message": "This is the homepage that is using <fix1>."
+  }
+}

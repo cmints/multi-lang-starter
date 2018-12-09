@@ -3,8 +3,8 @@ title: Second page
 header: CMintS starter
 ---
 
-## Second page
+## {second-page[Page heading] Second page}
 
-This is the second page of CMintS that is using Markdown.
+{second-page-p[Paragraph in "Second page" section] This is the second page of <fix>CMintS</fix> that is using <fix>Markdown</fix>.}
 
-[Go to the Homepage](/)
+[{second-page-link[Link to the homepage] Go to the Homepage}](/)
