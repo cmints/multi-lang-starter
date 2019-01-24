@@ -5,7 +5,7 @@
   },
   "second-page-p": {
     "description": "Paragraph in \"Second page\" section",
-    "message": "Это вторая странница <fix1>-а, она использует <fix1>."
+    "message": "Это вторая странница <fix1>-а, она использует <fix2>."
   },
   "second-page-link": {
     "description": "Link to the homepage",

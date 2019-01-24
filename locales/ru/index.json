@@ -5,10 +5,10 @@
   },
   "homepage-p": {
     "description": "Paragraph in \"Homepage\" section",
-    "message": "This is the homepage that is using <fix>EJS</fix>."
+    "message": "Это домашняя странница которая использует <fix1>."
   },
   "homepage-p-link": {
     "description": "Link to the second page in \"Homepage\" section",
-    "message": "This is the homepage that is using <fix1>."
+    "message": "Перейти на вторую странница."
   }
 }
