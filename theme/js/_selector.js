@@ -7,9 +7,12 @@ const init = () =>
     langaugeSelector.addEventListener("change", () =>
     {
       const path = [];
+      const {page, root} = langaugeSelector.dataset;
+      if (root)
+        path.push(root);
       if (langaugeSelector.value != "en")
         path.push(langaugeSelector.value);
-      path.push(langaugeSelector.dataset.page);
+      path.push(page);
       const hostname = window.location.hostname;
       const protocol = window.location.protocol;
       const port = ":" + window.location.port;

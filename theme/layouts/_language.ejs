@@ -1,6 +1,6 @@
 <label>
   View page in:
-  <select class="languageSelector" data-page="<%= page.pathname %>">
+  <select class="languageSelector" data-page="<%= page.pathname %>" data-root="<%= site.root%>">
     <% for (const locale of page.locales) { %>
       <% if (page.locale == locale) { %>
         <option value="<%= locale %>" selected><%= locale %></option>
