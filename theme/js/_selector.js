@@ -9,7 +9,7 @@ const init = () =>
       const path = [];
       const {page, root} = langaugeSelector.dataset;
       if (root)
-        path.push(root);
+        path.push(root.replace("/", ""));
       if (langaugeSelector.value != "en")
         path.push(langaugeSelector.value);
       path.push(page);

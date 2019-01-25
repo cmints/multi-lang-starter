@@ -9,6 +9,6 @@
   },
   "second-page-link": {
     "description": "Link to the homepage",
-    "message": "На главную"
+    "message": "На <a1>главную</a1>"
   }
 }

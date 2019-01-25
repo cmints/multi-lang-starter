@@ -7,4 +7,6 @@ header: CMintS starter
 
 {second-page-p[Paragraph in "Second page" section] This is the second page of <fix>CMintS</fix> that is using <fix>Markdown</fix>.}
 
-[{second-page-link[Link to the homepage] Go to the Homepage}](/)
+{second-page-link[Link to the homepage]
+Go to the [Homepage](/)
+}
