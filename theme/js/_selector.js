@@ -1,6 +1,5 @@
 const init = () =>
 {
-  console.log("here");
   const langaugeSelectors = document.querySelectorAll("select.languageSelector");
   for (const langaugeSelector of langaugeSelectors)
   {
