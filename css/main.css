@@ -1,0 +1,18 @@
+body {
+  margin: 0px;
+  font-family: sans-serif;
+}
+header {
+  background-color: #728448;
+  padding: 30px;
+}
+header > div {
+  margin: 0px auto;
+  max-width: 1000px;
+  color: #fff;
+}
+main {
+  margin: 0px auto;
+  max-width: 1000px;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImlucHV0Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUVBO0VBRUUsV0FBQTtFQUNBLHVCQUFBOztBQUdGO0VBRUUseUJBQUE7RUFDQSxhQUFBOztBQUdGLE1BQU87RUFFTCxnQkFBQTtFQUNBLGlCQUFBO0VBQ0EsV0FBQTs7QUFHRjtFQUVFLGdCQUFBO0VBQ0EsaUJBQUEifQ== */
