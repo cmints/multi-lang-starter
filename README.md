@@ -1,4 +1,10 @@
-Single language website boilerplate for [CMintS](https://cmints.io).
+# Multi language website starter for CMintS.
+
+## Links
+
+- [Step by step usage guide](https://cmints.io/quick-start)
+- [Current Starter](https://multi.cmints.io/)
+- [CMintS](https://cmints.io)
 
 ## Installation
 
