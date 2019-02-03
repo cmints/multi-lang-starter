@@ -19,7 +19,7 @@ const templateData =
       },
       {
         title: "Github",
-        link: "https://github.com/cmints/single-lang-starter"
+        link: "https://github.com/cmints/multi-lang-starter"
       }
     ]
   }
