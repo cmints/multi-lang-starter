@@ -3,7 +3,7 @@
     <% for (const {id, title, link} of site.navigation) {%>
       <li>
         <% if (id) { %>
-          <a href="<%- link %>" target="_blank">{<%= id %>(navigation)}</a>
+          <a href="<%- link %>" target="_blank">{<%= id %>(common)}</a>
         <% } else { %>
           <a href="<%- link %>" target="_blank"><%- title %></a>
         <% } %>

@@ -1,5 +1,5 @@
 <label>
-  View page in:
+  {language-switch-label(common)}
   <select class="languageSelector" data-page="<%= page.pathname %>" data-root="<%= site.root %>">
     <% for (const locale of page.locales) { %>
       <% if (page.locale == locale) { %>

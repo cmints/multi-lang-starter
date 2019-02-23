@@ -18,7 +18,7 @@ const templateData =
         link: "https://cmints.io/quick-start"
       },
       {
-        title: "Github",
+        id: "nav-github",
         link: "https://github.com/cmints/multi-lang-starter"
       }
     ]
